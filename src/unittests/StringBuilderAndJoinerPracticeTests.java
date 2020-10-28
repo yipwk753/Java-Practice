@@ -5,7 +5,7 @@ import java.util.StringJoiner;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class StringBuilderAndJoinerPractice {
+public class StringBuilderAndJoinerPracticeTests {
     @Test
     public void initializedStringJoinerReturnsEmptyString() {
         String expected = "";
